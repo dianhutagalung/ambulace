@@ -30,6 +30,7 @@
     background: linear-gradient(to right, #494964, #6f6f89);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    animation: sideLeft 2s ease;
 }
 .cover-peti {
     border-left: 1px solid rgb(199, 175, 173);

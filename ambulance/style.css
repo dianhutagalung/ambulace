@@ -138,7 +138,7 @@ nav {
     background: linear-gradient(to right, #494964, #6f6f89);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: sideLeft 2s ease;
+    animation: drop 2s ease;
 }
 .intro-text p {
     margin-top: 5px;
